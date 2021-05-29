@@ -8,7 +8,7 @@
 <!-- Javascript, React.js, Node.js, MongoDB, Material-UI, Chart.js, Firebase, PHP, Laravel, Drupal, MySQL, Apache, Nginx, GIT, SVN, -->
 
 ## ✅ My GitHub Stats ✅
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisupekar&show_icons=true&theme=radical)
+![abhisupekar GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisupekar&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisupekar&layout=compact&theme=radical)
 
 
